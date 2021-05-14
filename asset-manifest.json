@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/malong/static/js/main.ac2c4d57.chunk.js",
+    "main.js.map": "/malong/static/js/main.ac2c4d57.chunk.js.map",
+    "runtime-main.js": "/malong/static/js/runtime-main.489dcaeb.js",
+    "runtime-main.js.map": "/malong/static/js/runtime-main.489dcaeb.js.map",
+    "static/js/2.915553c8.chunk.js": "/malong/static/js/2.915553c8.chunk.js",
+    "static/js/2.915553c8.chunk.js.map": "/malong/static/js/2.915553c8.chunk.js.map",
+    "index.html": "/malong/index.html",
+    "static/js/2.915553c8.chunk.js.LICENSE.txt": "/malong/static/js/2.915553c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.489dcaeb.js",
+    "static/js/2.915553c8.chunk.js",
+    "static/js/main.ac2c4d57.chunk.js"
+  ]
+}
